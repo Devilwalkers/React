@@ -1,2 +1,2 @@
 # React
-This repository only for practice.
+This react repository only for my personal practice.
